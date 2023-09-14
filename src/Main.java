@@ -45,7 +45,7 @@ public class Main {
         double averageScore = totalScore / scores.size();
 
         System.out.println("Spelare " + (highestScorePlayer + 1) + " har högsta poängen med " + highestScore + " poäng");
-        System.out.println("Genomsnittspoängen för alla spelare är: " + averageScore);
+        System.out.println("Genomsnittspoängen för ALLA spelare är: " + averageScore);
     }
 }
 
